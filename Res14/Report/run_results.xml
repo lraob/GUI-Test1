@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>"VAMSHI - 000 - Oracle"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (2 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (2 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+name=VAMSHI - 000 - Oracle FLEXCUBE UBS12.0.3.5.0 - ENG - Transaction Input - 2011-01-04 - Transaction Input&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;title=VAMSHI - 000 - Oracle FLEXCUBE UBS12.0.3.5.0 - ENG - Transaction Input - 2011-01-04 - Transacti - Internet Explorer&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openurl=http://192.168.0.112:7001/FCJNeoWeb1/LoginServlet&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;opentitle=Oracle FLEXCUBE UBS12.0.3.5.0Login&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;number of tabs=2&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2015-11-01 16:33:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (2 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (2 objects found)&nbsp;</FONT></u><br>
+micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+name=VAMSHI - 000 - Oracle FLEXCUBE UBS12.0.3.5.0 - ENG - Transaction Input - 2011-01-04 - Transaction Input<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>title=VAMSHI - 000 - Oracle FLEXCUBE UBS12.0.3.5.0 - ENG - Transaction Input - 2011-01-04 - Transacti - Internet Explorer<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openurl=http://192.168.0.112:7001/FCJNeoWeb1/LoginServlet<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>opentitle=Oracle FLEXCUBE UBS12.0.3.5.0Login<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openedbytestingtool=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>number of tabs=2<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+      </TestObject>
+      <IconKey>3c6e5eae2f5446d5bebf75101c9c7d0a</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<ReportNode type="Step">
+<Data>
+    <Name>NAME</Name>
+    <Description>Object's physical description:&lt;br&gt;Type = text&lt;br&gt;Mercury Class = WebEdit&lt;br&gt;Index = 0&lt;br&gt;Html Tag = INPUT&lt;br&gt;_xpath = //INPUT[@id="BLK_CUSTOMER__NAME"]&lt;br&gt;|Visible = -1&lt;br&gt;rows = 0&lt;br&gt;Name = NAME&lt;br&gt;Max Length = 35&lt;br&gt;Html Id = BLK_CUSTOMER__NAME&lt;br&gt;default value = &lt;br&gt;DHTML Class = TXTstd&lt;br&gt;</Description>
+    <StartTime>2015-11-01 16:34:17</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Frame</Type>
+            <Name><![CDATA[Frame_2]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[NAME]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Object's physical description:<br>Type = text<br>Mercury Class = WebEdit<br>Index = 0<br>Html Tag = INPUT<br>_xpath = //INPUT[@id="BLK_CUSTOMER__NAME"]<br>|Visible = -1<br>rows = 0<br>Name = NAME<br>Max Length = 35<br>Html Id = BLK_CUSTOMER__NAME<br>default value = <br>DHTML Class = TXTstd<br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[NAME]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>0de12c92d08f4af89564f9edd99347b0</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+      <NodeType>Description</NodeType>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>NAME</Name>
+    <Description>Cannot identify the object "NAME" (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.</Description>
+    <StartTime>2015-11-01 16:34:17</StartTime>
+    <Duration>0</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Frame</Type>
+            <Name><![CDATA[Frame_2]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[NAME]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Cannot identify the object "NAME" (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[NAME]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>5a92ec4a20534f13b5911ede00f90704</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Frame_2</Name>
+    <Description>Frame</Description>
+    <StartTime>2015-11-01 16:34:17</StartTime>
+    <Duration>0</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Frame</Type>
+            <Name><![CDATA[Frame_2]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Frame]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>90e962a55836457486bec463922ea8cb</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>VAMSHI - 000 - Oracle</Name>
+    <Description>Page</Description>
+    <StartTime>2015-11-01 16:34:17</StartTime>
+    <Duration>0</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>90e962a55836457486bec463922ea8cb</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>VAMSHI - 000 - Oracle</Name>
+    <Description>Browser</Description>
+    <StartTime>2015-11-01 16:33:57</StartTime>
+    <Duration>20</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Browser]]></OperationData>
+      </TestObject>
+      <IconKey>59b7ab5632554a23a6d60f65c3f3f9b1</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Cannot identify the object "NAME" (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.</Name>
+    <ErrorText>Cannot identify the object "NAME" (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.</ErrorText>
+    <Description>Cannot identify the object &amp;quot;NAME&amp;quot; (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.&lt;BR/&gt;Line (48): &amp;quot;Browser(&amp;quot;VAMSHI - 000 - Oracle&amp;quot;).Page(&amp;quot;VAMSHI - 000 - Oracle&amp;quot;).Frame(&amp;quot;Frame_2&amp;quot;).WebEdit(&amp;quot;NAME&amp;quot;).Set &amp;quot;sirma&amp;quot;&amp;quot;. </Description>
+    <StartTime>2015-11-01 16:34:18</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Cannot identify the object &quot;NAME&quot; (of class WebEdit). Verify that this object's properties match an object currently displayed in your application.<BR/>Line (48): &quot;Browser(&quot;VAMSHI - 000 - Oracle&quot;).Page(&quot;VAMSHI - 000 - Oracle&quot;).Frame(&quot;Frame_2&quot;).WebEdit(&quot;NAME&quot;).Set &quot;sirma&quot;&quot;. ]]></OperationData>
+      </TestObject>
+      <IconKey>0de12c92d08f4af89564f9edd99347b0</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\f9f2d38d-016a-4372-b4bc-9a66002bdb5d.png" highlight="0,85,1600,775" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>VAMSHI - 000 - Oracle</Name>
+    <Description>Browser</Description>
+    <StartTime>2015-11-01 16:34:17</StartTime>
+    <Duration>11</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[VAMSHI - 000 - Oracle]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Browser]]></OperationData>
+      </TestObject>
+      <IconKey>59b7ab5632554a23a6d60f65c3f3f9b1</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5a6ebd57-263c-4087-925a-fea704412107.png" highlight="0,85,1600,775" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>NewCustomerCreate</Name>
+    <Description />
+    <StartTime>2015-11-01 16:33:56</StartTime>
+    <Duration>32</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>9e773a433422428bb4ad24dab6266d93</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest1</Name>
+    <ToolName>HP Unified Functional Testing</ToolName>
+    <ToolVersion>12.50</ToolVersion>
+    <Description />
+    <StartTime>2015-11-01 16:33:55</StartTime>
+    <Duration>33</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>35e61503ea0c43a6afba771b6e8e9869</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>Lenovo</User>
+      <CpuInfo>Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>4096</TotalMemory>
+      <HostName>VAMSHI-PC</HostName>
+      <OSInfo>Windows 8</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res14</ResultName>
+    <RunStartTime>2015-11-01 16:33:55</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HP Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>12.50</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
